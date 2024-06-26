@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋 I'm Yuraditha Aurelia Putri</h1>
 <h3 align="left">An Android Developer Enthusiast from Indonesia</h3>
+
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **yuradithaaureliaputri@gmail.com**
