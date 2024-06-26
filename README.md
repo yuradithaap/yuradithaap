@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuraditha Aurelia Putri</h1>
-<h3 align="center">Hello, I'm Fresh Graduate of Informatics Engineering at Langlangbuana University and Bangkit Academy 2023 Batch 1 Machine Learning Path Cohort Alumni. I have work experience as Laboratory Assistant at Langlangbuana University. I have expertise in Flutter, Python, MySQL, and software development tools including Android Studio and Visual Studio Code.</h3>
-
+<h1 align="left">Hi 👋 I'm Yuraditha Aurelia Putri</h1>
+<h3 align="left">An Android Developer Enthusiast from Indonesia</h3>
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **yuradithaaureliaputri@gmail.com**
