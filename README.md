@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋 I'm Yuraditha Aurelia Putri</h1>
-<h3 align="left">An Android Developer Enthusiast from Indonesia</h3>
+<h3 align="left">Data Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuradithaap&label=Profile%20views&color=0e75b6&style=flat" alt="yuradithaap" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 📫 How to reach me **yuradithaaureliaputri@gmail.com**
+- 📫 How to reach me: **yuradithaaureliaputri@gmail.com**
 
-- ⚡ Fun fact **I am a person who enjoys learning new things and does not give up when facing difficulties in projects I am working on.**
+- ⚡ Fun fact: **I enjoy learning new things and never give up when facing challenges in the projects I’m working on.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
