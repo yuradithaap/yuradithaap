@@ -18,13 +18,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-- Programming: Python, PHP, JavaScript, Dart
+- Programming: Python, SQL, PHP, JavaScript, Dart
   
-- Database: MySQL, Google Big Query
+- Tools: Tableau, Figma, MySQL
 
-- Tools: Tableau, Figma
-
-- Concepts: ETL, Data Warehousing, Machine Learning
+- Others: ETL, Data Warehousing, Machine Learning
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuradithaap&show_icons=true&locale=en&layout=compact" alt="yuradithaap" /></p>
