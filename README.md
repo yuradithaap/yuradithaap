@@ -22,7 +22,7 @@
   
 - Tools: Tableau, Figma, MySQL
 
-- Others: ETL, Data Warehousing, Machine Learning
+- Others: ETL Process, Data Validation & Quality Checks, Schema Standardization, JSON/CSV Processing
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuradithaap&show_icons=true&locale=en&layout=compact" alt="yuradithaap" /></p>
